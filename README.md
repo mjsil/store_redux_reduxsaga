@@ -31,7 +31,6 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 - [React Toastify](https://fkhadra.github.io/react-toastify/introduction/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Immer](https://github.com/immerjs/immer/)
-- [React Icons](https://react-icons.github.io/react-icons/)
 - [JSON Server](https://www.npmjs.com/package/json-server)
 
 ## 💻 Instalação, execução e desenvolvimento
@@ -43,7 +42,7 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 **Faça um clone desse repositório e acesse o diretório**
 
 ```bash
-git clone https://github.com/mjsil/fera_fut.git
+git clone https://github.com/mjsil/store_redux_reduxsaga.git
 ```
 
 ### Mobile
@@ -66,12 +65,12 @@ $ yarn start & yarn android
 ```bash
 # Fork via GitHub official command line
 # Caso não tenha o GitHub CLI, realize o fork pelo site.
-$ gh repo fork mjsil/fera_fut
+$ gh repo fork mjsil/store_redux_reduxsaga
 ```
 
 ```bash
 # Clone o seu fork
-$ git clone url-do-seu-fork && cd fera_fut
+$ git clone url-do-seu-fork && cd store_redux_reduxsaga
 # Crie uma branch com sua feature
 $ git checkout -b minha-feature
 # Faça o commit das suas alterações
