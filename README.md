@@ -45,7 +45,7 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 git clone https://github.com/mjsil/store_redux_reduxsaga.git
 ```
 
-### Mobile
+### Web
 
 ```bash
 # Entre na pasta do projeto
@@ -54,7 +54,7 @@ $ cd store_redux_reduxsaga
 $ yarn install ou npm install
 # Execute o JSON Server 
 $ json-server --watch -p 3333 server.json
-# Tudo pronto para iniciar o app
+# Tudo pronto para iniciar o projeto
 $ yarn start & yarn android
 ```
 
