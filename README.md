@@ -38,6 +38,7 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 ### Pré-requisitos
 
 - [React](https://pt-br.reactjs.org/)
+- [JSON Server](https://www.npmjs.com/package/json-server/)
 
 **Faça um clone desse repositório e acesse o diretório**
 
