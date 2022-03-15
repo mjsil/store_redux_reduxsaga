@@ -37,7 +37,7 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 
 ### Pré-requisitos
 
-- [React Native](https://reactnative.dev/)
+- [React](https://pt-br.reactjs.org/)
 
 **Faça um clone desse repositório e acesse o diretório**
 
